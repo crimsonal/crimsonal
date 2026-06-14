@@ -2,7 +2,7 @@
 
 <h3> 🧑‍💻 About Me </h3>
 
-- 🧑‍🎓 &nbsp; Student at Old Dominion University.
+- 🧑‍🎓 &nbsp; ODU CS Grad.
 <!-- - 🌱 &nbsp; I'm looking for a new full-time job that is 100% remote work.
 - 💻 &nbsp; I have 2 years of experience as a Software Developer.  -->
 
